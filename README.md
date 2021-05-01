@@ -3,7 +3,7 @@ We will analyze resistor-capacitor (RC) circuits in this page.
 ## Step Response of RC Circuit
 Mathematical model of the capacitor is given by
 
-<img src="equations/capacitor equation.JPG" alt="capacitor equation" height="45"/>
+<img src="denklemler/capacitor equation.JPG" alt="capacitor equation" height="45"/>
 
 If we take the integral of both sides of the equation from k=t<sub>0</sub> to k=t, then we obtain the solution
 
